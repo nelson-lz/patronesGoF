@@ -1,0 +1,20 @@
+package py.lpz.nelson.pd.visitor;
+
+public class ElementA implements Element {
+
+    private String attributeA;
+
+    public ElementA() {
+        attributeA = "A";
+    }
+
+    public String getAttributeA() {
+        return attributeA;
+    }
+
+    @Override
+    public void accept(Visitor visitor) {
+        visitor.visitElementA(this);
+    }
+
+}
