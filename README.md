@@ -5,9 +5,9 @@
 ## Modificado por nelson-lz
 ### Estado del código
 
-[![Build Status](https://travis-ci.org/miw-upm/apaw.svg?branch=develop)](https://travis-ci.org/miw-upm/apaw)
+[![Build Status](https://travis-ci.com/nelson-lz/patronesGoF.svg?branch=master)](https://travis-ci.com/nelson-lz/patronesGoF)
 [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=es.upm.miw%3Aapaw&metric=alert_status)](https://sonarcloud.io/dashboard?id=es.upm.miw%3Aapaw)
-[![BCH compliance](https://bettercodehub.com/edge/badge/miw-upm/apaw?branch=develop)](https://bettercodehub.com/)
+[![BCH compliance](https://bettercodehub.com/edge/badge/nelson-lz/patronesGoF?branch=master)](https://bettercodehub.com/)
 
 ### Tecnologías necesarias
 * Java
