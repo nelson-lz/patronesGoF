@@ -6,7 +6,7 @@
 ### Estado del código
 
 [![Build Status](https://travis-ci.com/nelson-lz/patronesGoF.svg?branch=master)](https://travis-ci.com/nelson-lz/patronesGoF)
-[![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=es.upm.miw%3Aapaw&metric=alert_status)](https://sonarcloud.io/dashboard?id=es.upm.miw%3Aapaw)
+ SONAR
 [![BCH compliance](https://bettercodehub.com/edge/badge/nelson-lz/patronesGoF?branch=master)](https://bettercodehub.com/)
 
 ### Tecnologías necesarias
